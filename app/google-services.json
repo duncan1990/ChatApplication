@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152862906660",
+    "project_id": "chatapplication-f1d11",
+    "storage_bucket": "chatapplication-f1d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152862906660:android:88d2cdced1fffa5262bbb1",
+        "android_client_info": {
+          "package_name": "com.ahmety.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152862906660-6k2an10u9fo75gv2e24cd0glvqbqjpmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPhj39bf_MowG13kjyuQDPC-2nppQaJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152862906660-6k2an10u9fo75gv2e24cd0glvqbqjpmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
